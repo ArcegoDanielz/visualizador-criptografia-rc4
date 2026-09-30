@@ -15,8 +15,3 @@ Aplicação web interativa desenvolvida para o trabalho acadêmico de Criptograf
 - Exibição do *Keystream* gerado e conversão de saída para Hexadecimal.
 - Interface responsiva com suporte a Dark/Light Mode via MUI.
 
-## ⚙️ Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/meu-projeto-criptografia-rc.git](https://github.com/seu-usuario/meu-projeto-criptografia-rc.git)
